@@ -1,9 +1,7 @@
 ![Blockly Games](https://raw.githubusercontent.com/wiki/google/blockly-games/title.png)
 
-Google's Blockly Games is a series of educational games that teach programming.
-It is based on the [Blockly](https://developers.google.com/blockly/) library.
-All code is free and open source.
+Google 的 Blockly Games 是一系列教導編程的教育遊戲。它基於 Blockly 庫。所有代碼都是免費和開源的。
 
-**The games are available at https://blockly.games/**
+這些遊戲可在 https://blockly.games/ 遊玩
 
-**The developer's site is at https://github.com/google/blockly-games/wiki**
+開發人員的網站位於 https://github.com/google/blockly-games/wiki
